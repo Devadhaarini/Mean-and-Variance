@@ -5,6 +5,8 @@
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
+# Developed by : D.Devadhaarini
+# Register no.: 212223230040
 
 # Software required :  
 
